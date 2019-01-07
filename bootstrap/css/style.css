@@ -1,0 +1,10 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 10px;
+    width: 30px;
+    border-radius: 40% !important;
+    cursor: pointer;
+    border: 5px solid greenyellow;
+    box-shadow: 0 0 15px whitesmoke;
+}
